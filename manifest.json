@@ -2,10 +2,10 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Back 2 Basics",
-  "version": "1.3.0",
+  "name": "b2b x rainbow texture pack",
+  "version": "1.0",
   "description": "A browser extension to intercept HTTPS request for Miniblox",
-  "author": "heythereu",
+  "author": "SmoothDude, joudaALT, Mystic",
   "background": {"service_worker": "background.js"},
   "icons": {
     "128": "icon.png"
