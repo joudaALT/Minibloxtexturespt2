@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/DEBUG/spritesheet-t.png",
+  "||miniblox.*textures/spritesheet.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/spritesheet-t.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/entity/chicken.png",
   "||miniblox.*textures/entity/cow/cow.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/entity/cow.png",
