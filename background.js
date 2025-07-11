@@ -34,7 +34,7 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/armor/leather_layer_1.png",
   "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/armor/leather_layer_2.png",
-  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/DEBUG/enchanted_item_glint.png"
+  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/enchanted_item_glint.png"
 };
 
 let rules = [];
