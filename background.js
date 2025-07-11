@@ -1,8 +1,8 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/spritesheet.png",
+  "||miniblox.*textures/spritesheet.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/spritesheet-t.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
-  "||miniblox.*textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/chicken.png",
-  "||miniblox.*textures/entity/cow/cow.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/cow.png",
+  "||miniblox.*textures/entity/chicken/chicken.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/entity/chicken.png",
+  "||miniblox.*textures/entity/cow/cow.png": "https://github.com/SmoothDude6969/Minibloxtexturespt2/blob/main/entity/cow.png",
   "||miniblox.*textures/entity/creeper/creeper.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/creeper.png",
   "||miniblox.*textures/entity/pig/pig.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/pig.png", 
   "||miniblox.*textures/entity/sheep/sheep_fur.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/sheep_fur.png",
